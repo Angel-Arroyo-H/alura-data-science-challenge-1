@@ -38,6 +38,13 @@ No relatório, incluir a justificativa para a decisão, apoiada nas análises e 
 
 O relatório deve ser bem estruturado, com uma introdução que explique o objetivo da análise, um desenvolvimento com a apresentação dos dados e gráficos, e uma conclusão recomendando a loja que deve ser vendida e justificando a escolha.
 
+## Sobre o desenvolvimento:
+- O desenvolvimento foi feito usando o [Google Colaboratory](https://colab.research.google.com/).
+- O documento com o desenvolvimento pode ser revisado em:
+- Os requerimentos estão listados do arquivo: requirements.txt
+
+**Importante:** Para poder rodar o código que gera o mapa de calor do Brasil é necessario subir no Colab os arquivos da pasta dados.
+
 ## Relatotio:
 
 ### Objetivo

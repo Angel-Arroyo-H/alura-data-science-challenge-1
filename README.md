@@ -40,10 +40,10 @@ O relatório deve ser bem estruturado, com uma introdução que explique o objet
 
 ## Sobre o desenvolvimento:
 - O desenvolvimento foi feito usando o [Google Colaboratory](https://colab.research.google.com/).
-- O documento com o desenvolvimento pode ser revisado em:
-- Os requerimentos estão listados do arquivo: requirements.txt
+- O notebook com o desenvolvimento pode ser revisado [aqui](Alura_DataScience_Challenge1.ipynb)
+- Os requerimentos estão listados do arquivo [requirements.txt](requirements.txt).
 
-**Importante:** Para poder rodar o código que gera o mapa de calor do Brasil é necessario subir no Colab os arquivos da pasta dados.
+**Importante:** Para poder rodar o código que gera o mapa de calor do Brasil é necessario subir no Colab os arquivos da pasta [dados](dados).
 
 ## Relatotio:
 

@@ -40,7 +40,7 @@ O relatório deve ser bem estruturado, com uma introdução que explique o objet
 
 ## Sobre o desenvolvimento:
 - O desenvolvimento foi feito usando o [Google Colaboratory](https://colab.research.google.com/).
-- O notebook com o desenvolvimento pode ser revisado [aqui](Alura_DataScience_Challenge1.ipynb)
+- O notebook com o desenvolvimento pode ser revisado [aqui](Alura_DataScience_Challenge1.ipynb).
 - Os requerimentos estão listados do arquivo [requirements.txt](requirements.txt).
 
 **Importante:** Para poder rodar o código que gera o mapa de calor do Brasil é necessario subir no Colab os arquivos da pasta [dados](dados).
@@ -95,7 +95,7 @@ Os fatores estudados para a avaliação das lojas são os seguintes:
 
     <img src="./graficos/grafico_produtos_mais_e_menos_vendidos.png" width="500" />
     
-  - Podemos destacar nas vendas por produto que a diferencia entre o produto mais vendido e menos vendido não ultrapassa o 1,5%. Isto é, não temos uma diferençã muito grande entre o produto mais vendido e menos vendido em cada uma das 4 lojas.
+  - Podemos salientar nas vendas por produto que a diferencia entre o produto mais vendido e menos vendido não ultrapassa o 1,5%. Isto é, não temos uma diferençã muito grande entre o produto mais vendido e menos vendido em cada uma das 4 lojas.
 
 #### 5. Frete:
   - O frete medio por loja va de 31,3 até 34,7 reais.
